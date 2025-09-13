@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kinza 👋
 
-<!--
-**kinza-collab/kinza-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Front-End Developer** passionate about building responsive and modern websites. I love turning designs into clean, interactive web experiences using **HTML, CSS, and JavaScript**, and learning advanced frameworks like **React**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Design & Tools:** Responsive Design, Git, GitHub Pages, Canva  
+- **Other:** Basic PHP & MySQL, Debugging, Project Organization  
+
+---
+
+### 💻 Projects
+Here are some of my key projects:
+
+1. [Advanced To-Do App](https://github.com/kinza-collab/advanced-todo-app) – A fully functional to-do list app with localStorage, pass/fail logic, delete & filter options.  
+  
+---
+
+### 📫 Contact & Portfolio
+- **Portfolio:** [[kinza-portfolio.web.app](https://kinza-portfolio.web.app)  ]
+- **LinkedIn:**  [linkedin.com/in/kinza]([https://linkedin.com/in/kinza](https://www.linkedin.com/in/kinza-taj)
+
+
+---
+
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kinza-collab&show_icons=true&theme=radical)
